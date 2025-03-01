@@ -15,3 +15,7 @@ decrypted_bytes = [byte ^ xor_key for byte in hex_data]
 flag = ''.join(chr(b) for b in decrypted_bytes)
 print(f"Flag: {flag}")
 ```
+
+```
+flag{c50d82c0a25f3e644d0702b41dbd085a}
+```
