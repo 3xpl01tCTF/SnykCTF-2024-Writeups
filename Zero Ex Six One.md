@@ -1,4 +1,4 @@
-![[Pasted image 20250228185704.png]]
+![Pasted image 20250228185704](pictures/Pasted%20image%2020250228185704.png)
 
 Titre = big hint, free solve
 "Zero Ex Six One" -> 0x61 en hexa = clé xor
